@@ -1,0 +1,85 @@
+{
+    "place": [
+        {
+            "id": 0,
+            "name": "Fateh Sagar",
+            "category": "Lakes",
+            "description": "Fateh Sagar Lake is situated in the city of Udaipur in the Indian state of Rajasthan. It is an artificial lake named after Maharana Fateh Singh of Udaipur and Mewar, constructed north-west of Udaipur, to the north of Lake Pichola in the 1680s.",
+            "ratings": "4.5",
+            "location":"Near Chetak Circle",
+            "picture": "https://www.google.com/search?q=fateh+sagar&sxsrf=ALeKk02Dr59ei5QOVGj6uFPXUk8Byb-fwQ:1589218342282&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjHmYzWq6zpAhUlILcAHRG_B98Q_AUoAnoECCIQBA&biw=1536&bih=754",
+            "type": "natural"
+        },
+        {
+            "id": 1,
+            "name": "Pichola",
+            "category": "Lakes",
+            "description": "Historic Pichola spreads around scenic Lake Pichola, known for its lakeside ghats and palaces converted into hotels, and popular for boat rides.",
+            "ratings": "5",
+            "location":"Old city",
+            "picture": "https://www.google.com/search?q=pichola&tbm=isch&ved=2ahUKEwivpYSErKzpAhVMHbcAHXFiBGYQ2-cCegQIABAA&oq=pichola&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BAgjECc6BAgAEENQvoIGWMqKBmCnjAZoAHAAeACAAfICiAG0C5IBBzAuNS4xLjGYAQCgAQGqAQtnd3Mtd2l6LWltZw&sclient=img&ei=hoy5Xq_KJcy63LUP8cSRsAY&bih=754&biw=1536",
+            "type": "natural"
+        },
+        {
+            "id": 2,
+            "name": "City Palace",
+            "category": "Palace",
+            "description": "City Palace, Udaipur is a palace complex situated in the city of Udaipur in the Indian state of Rajasthan. It was built over a period of nearly 400 years, with contributions from several rulers of the Mewar dynasty. ",
+            "ratings": "5.0",
+            "location":"Old city",
+            "picture": "https://www.google.com/search?q=city+palace&hl=en&sxsrf=ALeKk01fIOU2xmAKnX5z5Y2lpHNfrfKlNw:1589219262852&source=lnms&tbm=isch&sa=X&ved=2ahUKEwidpoeNr6zpAhXL4zgGHTBaAT0Q_AUoAnoECCEQBA&biw=1536&bih=754",
+            "type": "historical"
+        },
+        {
+            
+            "id": 3,
+            "name": "Lok Kala Mandal",
+            "category": "Museum",
+            "description": " Bharatiya Lok Kala Mandal is a cultural institution based in Udaipur in Rajasthan state in India engaged in studying folk art, culture, songs and festivals of Rajasthan,",
+            "ratings": "4",
+            "location":"Madhuban, Panchwati",
+            "picture": "https://www.google.com/search?q=fateh+sagar&sxsrf=ALeKk02Dr59ei5QOVGj6uFPXUk8Byb-fwQ:1589218342282&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjHmYzWq6zpAhUlILcAHRG_B98Q_AUoAnoECCIQBA&biw=1536&bih=754",
+            "type": "historical"
+        },
+        {
+            "id": 4,
+            "name": "Jagdish Temple",
+            "category": "Temples",
+            "description": "Jagdish Temple is a large Hindu temple in the middle of Udaipur in Rajasthan, just outside the royal palace. It has been in continuous worship since 1651.",
+            "ratings": "5",
+            "location":"Old City",
+            "picture": "https://www.google.com/search?q=jagdish+temple&tbm=isch&ved=2ahUKEwja94bNrqzpAhVFFnIKHTPhDpMQ2-cCegQIABAA&oq=jagdish+temple&gs_lcp=CgNpbWcQAzIECAAQQzICCAAyAggAMgIIADICCAAyBggAEAUQHjIGCAAQBRAeMgYIABAFEB4yBggAEAUQHjIECAAQHjoECCMQJ1DrkAFYhaQBYJepAWgAcAB4AIABogKIAdITkgEGMC4xMy4xmAEAoAEBqgELZ3dzLXdpei1pbWc&sclient=img&ei=OI-5Xtr7JcWsyAOzwruYCQ&bih=754&biw=1536&hl=en",
+            "type": "religious"
+        },
+        {
+            "id": 5,
+            "name": "Karni Mata Mandir",
+            "category": "Temples",
+            "description": "Shri Manshapurna Karni Mata Temple is a Hindu temple located on the Machla Magra Hills, near the Doodh Talai Lake in Udaipur, Rajasthan. ",
+            "ratings": "4.5",
+            "location":"Near Dudh Talai",
+            "picture": "https://www.google.com/search?q=karni+mata+mandir+udaipur&hl=en&sxsrf=ALeKk030ZrEXEJ749WzjMqXaQ29gyCIvfg:1589219110961&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi6yNDErqzpAhWYxzgGHVN2D5gQ_AUoAXoECBYQAw&biw=1536&bih=754",
+            "type": "religious"
+        },
+        {
+            "id": 6,
+            "name": "Musical Fountain",
+            "category": "Garden",
+            "description": "Dudh Talai Musical Garden is a mesmerizing rock and musical fountain garden offering dazzling views of the city. ",
+            "ratings": "4",
+            "location":"opp. Dudh Talai",
+            "picture": "https://www.google.com/search?q=musical+fountain+garden+udaipur&tbm=isch&ved=2ahUKEwiTzc6orqzpAhVXPCsKHVuWAe0Q2-cCegQIABAA&oq=musical+fountain+garden+udaipur&gs_lcp=CgNpbWcQAzoCCAA6BggAEAgQHjoECAAQGFC2B1jMJGDKJWgAcAB4AoABwwWIAfojkgENMC4yLjQuMy4yLjEuMZgBAKABAaoBC2d3cy13aXotaW1n&sclient=img&ei=7I65XpOnDNf4rAHbrIboDg&bih=754&biw=1536&hl=en",
+            "type": "garden"
+        },
+        {
+            "id": 7,
+            "name": "Saheliyon ki Badi",
+            "category": "Garden",
+            "description": "Saheliyon-ki-Bari is a major garden and a popular tourist space in Udaipur in the Indian state of Rajasthan. It lies in northern part of the city and has fountains and kiosks, a lotus pool and marble elephants. It was built by Rana Sangram Singh.",
+            "ratings": "5",
+            "location":"UIT Road",
+            "picture": "https://www.google.com/search?q=Saheliyon+ki+badi&hl=en&sxsrf=ALeKk01_nyqahfcu92hDpavz-PoN5HvnjA:1589218986001&source=lnms&tbm=isch&sa=X&ved=2ahUKEwijzYWJrqzpAhWmzDgGHV8sBFcQ_AUoAnoECBUQBA&biw=1536&bih=754",
+            "type": "garden"
+        }
+    ]
+}
